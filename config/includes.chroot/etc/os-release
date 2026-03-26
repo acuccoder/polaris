@@ -1,0 +1,5 @@
+PRETTY_NAME="Polaris 26.3 (Based on Ubuntu 24.04)"
+NAME="Polaris"
+VERSION="26.3"
+ID=polaris
+ID_LIKE=debian

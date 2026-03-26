@@ -1,0 +1,14 @@
+ubuntu-standard
+casper
+systemd-sysv
+network-manager
+sudo
+nano
+nvim
+wget
+jq
+
+linux-image-generic
+grub-pc-bin
+grub-efi-amd64-bin
+shim-signed
