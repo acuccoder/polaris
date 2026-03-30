@@ -1,0 +1,6 @@
+*
+!config/
+!auto/
+!README.md
+!LICENSE
+!.gitignore
